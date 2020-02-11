@@ -1,12 +1,25 @@
 {
-  "name": "template",
+  "name": "nodejs-template",
+  "private": true,
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "todo",
+  "main": "todo",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "",
+    "dev": "",
+    "prebuild": "npm run clean",
+    "build": "",
+    "start": ""
   },
-  "keywords": [],
-  "author": "lidqqq <lidqqq.dev@gmail.com> (https://lidqqq.dev)",
-  "license": "MIT"
+  "keywords": [
+    "todo"
+  ],
+  "author": "todo",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "4.2.1",
+    "lint-staged": "10.0.7",
+    "prettier": "1.19.1"
+  }
 }
