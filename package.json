@@ -18,6 +18,9 @@
   "author": "todo",
   "license": "MIT",
   "devDependencies": {
+    "eslint": "6.8.0",
+    "eslint-config-prettier": "6.10.0",
+    "eslint-plugin-prettier": "3.1.2",
     "husky": "4.2.1",
     "lint-staged": "10.0.7",
     "prettier": "1.19.1"
