@@ -3,5 +3,5 @@
 ## Usage
 
 ```
-degit https://github.com/lidqqq/template#node
+degit "lidqqq/template#node" my-app
 ```
