@@ -1,7 +1,7 @@
-# lidqqq degit template
+# lidqqq's [degit](https://github.com/Rich-Harris/degit) template
 
 ## Usage
 
 ```
-$ degit https://github.com/lidqqq/template#dev
+degit "lidqqq/template#{target_branch}" my-app
 ```
