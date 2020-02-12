@@ -3,5 +3,5 @@
 ## Usage
 
 ```
-degit "lidqqq/template#node" my-app
+npx degit "lidqqq/template#node" my-app
 ```
