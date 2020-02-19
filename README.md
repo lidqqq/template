@@ -1,7 +1,8 @@
 # lidqqq's [degit](https://github.com/Rich-Harris/degit) template
 
-## Usage
+### Templates
 
 ```
-degit "lidqqq/template#{target_branch}" my-app
+npx degit "lidqqq/template#node" my-app
+npx degit "lidqqq/template#ts" my-app
 ```
