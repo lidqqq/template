@@ -2,6 +2,7 @@
   // https://prettier.io/docs/en/integrating-with-linters.html
   "extends": ["eslint:recommended", "plugin:prettier/recommended"],
   "plugins": ["prettier"],
+  "env": { "node": true },
   "rules": {
     "prettier/prettier": "error"
   },
