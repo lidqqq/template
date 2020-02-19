@@ -1,4 +1,4 @@
-# lidqqq degit Node.js template
+# lidqqq TypeScript template
 
 ## Usage
 
