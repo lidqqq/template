@@ -1,7 +1,7 @@
-# lidqqq Node.js template
+# lidqqq rollup template
 
 ## Usage
 
 ```
-npx degit "lidqqq/template#node" my-app
+npx degit "lidqqq/template#rollup" my-app
 ```
