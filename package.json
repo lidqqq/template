@@ -9,11 +9,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "clean": "",
-    "dev": "",
-    "prebuild": "npm run clean",
-    "build": "",
-    "start": ""
+    "dev": "rollup -c -w",
+    "build": "rollup -c"
   },
   "keywords": [
     "todo"
