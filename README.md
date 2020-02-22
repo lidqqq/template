@@ -1,6 +1,10 @@
 # lidqqq's [degit](https://github.com/Rich-Harris/degit) template
 
-### Templates
+I would update this repository continuously for up-to-date many plugins.
+
+You can select and use a branch by your usecase.
+
+## Templates
 
 ```
 npx degit "lidqqq/template#node" my-app
