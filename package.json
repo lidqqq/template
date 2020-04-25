@@ -5,7 +5,7 @@
   "description": "todo",
   "main": "todo",
   "engines": {
-    "node": "12.16.1"
+    "node": "12.16.2"
   },
   "scripts": {
     "fc": "HUSKY_SKIP_HOOKS=1 git commit",
